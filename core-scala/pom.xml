@@ -50,7 +50,7 @@
     </build>
 
     <properties>
-        <scala.version>2.12.7</scala.version>
+        <scala.version>2.13.16</scala.version>
         <scala.plugin.version>3.3.2</scala.plugin.version>
     </properties>
 
