@@ -52,7 +52,7 @@
 
     <properties>
         <xstream.version>1.4.9</xstream.version>
-        <jsonpatch.version>1.12</jsonpatch.version>
+        <jsonpatch.version>1.13</jsonpatch.version>
     </properties>
 
 </project>
