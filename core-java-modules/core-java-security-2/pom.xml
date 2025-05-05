@@ -49,7 +49,7 @@
     
     <properties>
         <!-- util -->
-        <bouncycastle.version>1.60</bouncycastle.version>
+        <bouncycastle.version>1.69</bouncycastle.version>
         <commons-codec.version>1.11</commons-codec.version>
 
         <!-- testing -->
