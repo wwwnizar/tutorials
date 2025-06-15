@@ -137,7 +137,7 @@
     </build>
 
     <properties>
-        <kafka.version>2.0.0</kafka.version>
+        <kafka.version>3.9.1</kafka.version>
         <javapoet.version>1.10.0</javapoet.version>
         <reflections.version>0.9.11</reflections.version>
         <mockftpserver.version>2.7.1</mockftpserver.version>
