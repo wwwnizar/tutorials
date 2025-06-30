@@ -148,7 +148,7 @@
     </build>
 
     <properties>
-        <restx.version>0.35-rc4</restx.version>
+        <restx.version>1.0.0</restx.version>
         <logback-classic.version>1.2.3</logback-classic.version>
     </properties>
 
