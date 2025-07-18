@@ -61,7 +61,7 @@
         <!-- persistence -->
         <h2.version>1.4.200</h2.version>
         <!-- simple-jndi -->
-        <simple-jndi.version>0.23.0</simple-jndi.version>
+        <simple-jndi.version>0.25.0</simple-jndi.version>
         <!-- test scoped -->
         <mockito.version>3.3.3</mockito.version>
     </properties>
