@@ -44,7 +44,7 @@
 
     <properties>
         <javax.mail.version>1.5.0-b01</javax.mail.version>
-        <commons.lang3.version>3.10</commons.lang3.version>
+        <commons.lang3.version>3.18.0</commons.lang3.version>
         <!-- testing -->
         <assertj-core.version>3.10.0</assertj-core.version>
     </properties>
