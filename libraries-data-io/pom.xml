@@ -67,9 +67,9 @@
         <snakeyaml.version>1.21</snakeyaml.version>
         <kryo.version>4.0.1</kryo.version>
         <smooks.version>1.7.0</smooks.version>
-        <opencsv.version>4.1</opencsv.version>
+        <opencsv.version>5.11</opencsv.version>
         <google-api.version>1.23.0</google-api.version>
-        <google-sheets.version>v4-rev493-1.21.0</google-sheets.version>
+        <google-sheets.version>v4-rev535-1.24.1</google-sheets.version>
         <org.assertj.core.version>3.9.0</org.assertj.core.version>
         <docx4j.version>3.3.5</docx4j.version>
         <jaxb-api.version>2.1</jaxb-api.version>
