@@ -174,7 +174,7 @@
         <arquillian-glassfish-embedded-3.1.version>1.0.0.CR4</arquillian-glassfish-embedded-3.1.version>
         <wildfly.version>8.2.1.Final</wildfly.version>
         <javax.ejb-api.version>3.2</javax.ejb-api.version>
-        <springframework.version>5.2.3.RELEASE</springframework.version>
+        <springframework.version>6.2.10</springframework.version>
         <activemq.broker.version>5.10.2</activemq.broker.version>
         <activemq.junit.version>5.13.1</activemq.junit.version>
         <mockito.version>2.21.0</mockito.version>
