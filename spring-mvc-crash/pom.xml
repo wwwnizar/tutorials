@@ -147,7 +147,7 @@
     <properties>
 
         <!-- Spring -->
-        <org.springframework.version>5.0.2.RELEASE</org.springframework.version>
+        <org.springframework.version>6.2.10</org.springframework.version>
         <spring-boot.version>1.5.10.RELEASE</spring-boot.version>
 
         <!-- persistence -->
