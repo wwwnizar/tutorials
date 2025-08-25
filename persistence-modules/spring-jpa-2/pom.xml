@@ -56,7 +56,7 @@
 
     <properties>
         <!-- Spring -->
-        <org.springframework.version>5.1.5.RELEASE</org.springframework.version>
+        <org.springframework.version>6.2.10</org.springframework.version>
     </properties>
 
 </project>
