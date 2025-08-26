@@ -75,7 +75,7 @@
     </build>
 
     <properties>
-        <spring.version>5.0.9.RELEASE</spring.version>
+        <spring.version>6.2.10</spring.version>
         <h2.version>1.4.199</h2.version>
         <jupiter.version>5.5.1</jupiter.version>
         <source.version>1.8</source.version>
