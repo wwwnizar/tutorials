@@ -57,7 +57,7 @@
 
     <properties>
         <!-- Spring -->
-        <org.springframework.version>5.2.4.RELEASE</org.springframework.version>
+        <org.springframework.version>6.2.11</org.springframework.version>
         <!-- persistence -->
         <h2.version>1.4.200</h2.version>
         <!-- simple-jndi -->
