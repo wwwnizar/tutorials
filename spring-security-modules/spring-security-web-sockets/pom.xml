@@ -182,8 +182,8 @@
 
     <properties>
         <hibernate-core.version>5.2.10.Final</hibernate-core.version>
-        <spring-security.version>4.2.3.RELEASE</spring-security.version>
-        <spring-data-jpa.version>1.11.3.RELEASE</spring-data-jpa.version>
+        <spring-security.version>6.4.11</spring-security.version>
+        <spring-data-jpa.version>3.4.10</spring-data-jpa.version>
         <logback-classic.version>1.2.3</logback-classic.version>
         <spring-boot-starter-test.version>1.5.10.RELEASE</spring-boot-starter-test.version>
     </properties>
