@@ -165,8 +165,8 @@
 
     <properties>
         <!-- Spring -->
-        <org.springframework.version>4.3.6.RELEASE</org.springframework.version>
-        <org.springframework.security.version>4.2.1.RELEASE</org.springframework.security.version>
+        <org.springframework.version>6.2.11</org.springframework.version>
+        <org.springframework.security.version>6.4.11</org.springframework.security.version>
 
         <!-- util -->
         <guava.version>19.0</guava.version>
