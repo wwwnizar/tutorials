@@ -94,6 +94,6 @@
     <properties>
         <!-- The main class to start by executing java -jar -->
         <start-class>com.baeldung.intro.App</start-class>
-        <spring-boot.version>2.2.3.RELEASE</spring-boot.version>
+        <spring-boot.version>3.4.10</spring-boot.version>
     </properties>
 </project>
