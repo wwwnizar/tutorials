@@ -121,7 +121,7 @@
 
     <properties>
         <mapdb.version>3.0.7</mapdb.version>
-        <assertj.version>3.6.2</assertj.version>
+        <assertj.version>3.27.7</assertj.version>
         <classgraph.version>4.8.28</classgraph.version>
         <jbpm.version>6.0.0.Final</jbpm.version>
         <picocli.version>3.9.6</picocli.version>
