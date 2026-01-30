@@ -52,7 +52,7 @@
         <rx.java.version>1.2.5</rx.java.version>
         <rxrelay.version>2.0.0</rxrelay.version>
         <rx.java2.version>2.2.2</rx.java2.version>
-        <assertj.version>3.8.0</assertj.version>
+        <assertj.version>3.27.7</assertj.version>
     </properties>
 
 </project>
